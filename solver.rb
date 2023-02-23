@@ -10,7 +10,7 @@ class Solver
     string.reverse
   end
 
-    def fizzbuzz(number)
+  def fizzbuzz(number)
     if (number % 15).zero?
       'fizzbuzz'
     elsif (number % 3).zero?
