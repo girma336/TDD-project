@@ -54,14 +54,14 @@ RSpec.describe Solver do
       end
     end
 
-    context 'when number is 20 ' do
-      it 'Return buzz' do
+    context 'when number is 21 ' do
+      it 'Return fizz' do
         expect(subject.fizzbuzz(21)).to eq('fizz')
       end
     end
 
-    context 'when number is 20 ' do
-      it 'Return buzz' do
+    context 'when number is 11 ' do
+      it 'Return 11' do
         expect(subject.fizzbuzz(11)).to eq(11)
       end
     end
