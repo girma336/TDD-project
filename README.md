@@ -116,6 +116,11 @@ No deployment
 - Twitter: [@twitterhandle](https://twitter.com/zuhrahashimi4)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/zuhra-hashimi/)
 
+👤 **Girma Tarekegn**
+
+- GitHub: [girma336](https://github.com/girma336)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/girma-tarekegn/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
